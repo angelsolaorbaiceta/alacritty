@@ -9,6 +9,7 @@ size = 13
 
 [window]
 dimensions = { columns = 160, lines = 50 }
+padding = { x = 10, y = 10 }
 decorations = "Full"
 opacity = 0.85
 blur = true
