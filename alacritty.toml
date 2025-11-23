@@ -4,8 +4,8 @@ import = [
 ]
 
 [font]
-normal = { family = "UbuntuMono Nerd Font Mono", style = "Regular" }
-size = 14
+normal = { family = "UbuntuMono Nerd Font", style = "Regular" }
+size = 13
 
 [window]
 dimensions = { columns = 160, lines = 50 }
