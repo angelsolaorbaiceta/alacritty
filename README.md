@@ -5,3 +5,9 @@
 ```bash
 git clone https://github.com/angelsolaorbaiceta/alacritty ~/.config/alacritty
 ```
+
+Or
+
+```bash
+gh repo clone angelsolaorbaiceta/alacritty ~/.config/alacritty
+```
